@@ -1,4 +1,4 @@
-`.properties` to .yml or `.yml` to .properties converter<br/>
+# `.properties` to .yml or `.yml` to .properties converter<br/>
 To convert `.properties` file to `.yml` file run:<br/>
 java -jar properties-yml.jar application.properties<br/>
 Generate application.yml<br/>
