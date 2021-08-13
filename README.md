@@ -5,3 +5,4 @@
 # generate application.yml
 # java -jar properties-yml.jar application.yml
 # generate application.properties
+Download here<a href="https://github.com/semjase1/util/archive/refs/heads/master.zip">here</a>
