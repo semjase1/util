@@ -1,8 +1,8 @@
-yml to properties or properties to yml<br/>
-cmd java -jar properties-yml.jar propertiesOrYmlFile charset<br/>
-e.g.<br/>
+.properties to .yml or .yml to .properties converter<br/>
+To convert `.properties` file to `.yml` file run:
 java -jar properties-yml.jar application.properties<br/>
-generate application.yml<br/>
+Generate application.yml<br/>
+To convert `.yml` file to `.properties` file run:
 java -jar properties-yml.jar application.yml<br/>
-generate application.properties<br/>
-Download <a href="https://github.com/semjase1/util/archive/refs/heads/master.zip">here</a><br/>
+Generate application.properties<br/>
+Tool download <a href="https://github.com/semjase1/util/archive/refs/heads/master.zip">here</a><br/>
